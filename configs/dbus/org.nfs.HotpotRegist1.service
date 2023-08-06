@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.nfs.HotpotRegist1
+Exec=/usr/sbin/nfs-hotpot-regist
+
