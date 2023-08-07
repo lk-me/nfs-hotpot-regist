@@ -11,6 +11,8 @@
 ### /debian/ubuntu
 - apt install libdbus-1-dev
 - 在主目录使用makefile编译
+- make
+- sudo make install
 - sudo ./nfs-hotpot-regist
 
 ### 模块介绍
